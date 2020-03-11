@@ -6,4 +6,7 @@ x = np.random.randn(2, 2)
 print(x)
 
 # Let's change stuff
-y = 999
+y = 3024983
+z = y * x
+
+# 11.03.2020
